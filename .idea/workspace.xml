@@ -5,12 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a1d0378-1985-4235-be31-654046de1a41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/doc-example/api.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc-example/some-feature.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tic_tac_bug_toe_solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tic_tac_bug_toe_solution.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/.buildinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/.doctrees/environment.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/.doctrees/index.doctree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/.doctrees/some-feature.doctree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_sources/index.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_sources/some-feature.md.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/alabaster.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/basic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/doctools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/documentation_options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/language_data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/pygments.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/searchtools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/_static/sphinx_highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/genindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/objects.inv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/searchindex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/_build/some-feature.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/api.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/make.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-example/some-feature.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +56,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tadig/source/repos/tic_tac_bug_toe_solution&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/tadig/Desktop/session 8 exercise"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

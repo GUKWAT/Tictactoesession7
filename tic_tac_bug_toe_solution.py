@@ -2,7 +2,8 @@
 # Corrected the diagonal win condition in the is_win function. Changed board[1][0] to board[0][0].
 # Added an explicit return False statement at the end of the is_win function to handle cases where no win condition is met.
 # Wrapped the input reading in a try-except block to handle invalid input (e.g., non-integer input) gracefully.
-# Added an except IndexError block to handle cases where the user enters row and column values outside the range (0-2).
+# Added an except IndexError bl
+# ock to handle cases where the user enters row and column values outside the range (0-2).
 
 """A 3x3 board is initialized"""
 board = [[' ' for _ in range(3)] for _ in range(3)]
